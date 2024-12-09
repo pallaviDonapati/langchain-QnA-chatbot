@@ -1,4 +1,4 @@
-# llm-Q-A-application
+# llm-Q&A-application
 
 This project demonstrates the use of **LangChain** to integrate multiple language models, including OpenAI and Hugging Face, for building text-based applications. It covers essential functionalities such as creating prompt templates, chaining tasks, and developing a simple chatbot using Streamlit.
 
