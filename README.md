@@ -27,4 +27,3 @@ This project demonstrates the use of **LangChain** to integrate multiple languag
 - Use of deprecation handling for smoother migration to updated packages.
 - Simple sequential chains and chatbot creation.
 
-This project highlights how to use AI tools practically for solving real-world text-processing tasks. It provides a great starting point for developers interested in building language-driven applications.
